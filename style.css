@@ -1,0 +1,13 @@
+button {
+    background-color: deeppink;
+    width: 80px;
+    height: 50px;
+    border-radius:20px;
+}
+
+
+body {
+background-color: rgb(113, 252, 166);
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+    
